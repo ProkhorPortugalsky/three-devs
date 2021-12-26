@@ -1,3 +1,4 @@
 Жили были на свете 3 разработчика
-И звали их Mr.First Second Third.
+И звали их Mr.First Mr.Second Third.
+
 
